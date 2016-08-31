@@ -1,2 +1,2 @@
-# morelia
+# python
 Python courses and personal projects
