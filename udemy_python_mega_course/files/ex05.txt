@@ -1,0 +1,4 @@
+50.0
+-4.0
+Can't convert. The informed temperature is lower than 273.15 C.
+212.0
