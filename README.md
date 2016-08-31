@@ -1,2 +1,2 @@
-# udemy python mega course
+# Courses
 Annotations, exercises, projects
