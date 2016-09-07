@@ -1,2 +1,3 @@
 *.whl
 udemy_python_mega_course/.ipynb_checkpoints/Numpy-checkpoint.ipynb
+udemy_python_mega_course/project04/mysite/virtual/*

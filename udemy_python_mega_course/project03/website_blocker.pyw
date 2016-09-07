@@ -20,7 +20,7 @@ blocked_urls=["www.facebook.com", "facebook.com"]
 
 while True:   
    if dt(dt.now().year,dt.now().month, dt.now().day, int(sys.argv[1])) < dt.now() < dt(dt.now().year,dt.now().month, dt.now().day, int(sys.argv[2])):
-      print("Working Hours...")
+      #print("Working Hours...")
       with open(hosts_path, 'r+') as file:
          content=file.read()
          for url in blocked_urls:
@@ -30,7 +30,7 @@ while True:
                file.write(redirect + " " + url + "\n")
                
    else:
-      print("Fun Hours...")
+      #print("Fun Hours...")
       with open(hosts_path, 'r+') as file:
          content=file.readlines()
          file.seek(0)
