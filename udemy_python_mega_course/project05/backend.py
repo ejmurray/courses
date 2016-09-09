@@ -45,5 +45,5 @@ def update(id,title="", author="", year="", isbn=""):
    conn.commit()
    conn.close()
 
-   
+#runs when imported, forcing to create the table in case it doesn't exists
 connect()
