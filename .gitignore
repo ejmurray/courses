@@ -1,3 +1,8 @@
 *.whl
 udemy_python_mega_course/.ipynb_checkpoints/Numpy-checkpoint.ipynb
 udemy_python_mega_course/project04/mysite/virtual/*
+udemy_python_mega_course/project05/bookstore.spec
+udemy_python_mega_course/project05/books.db
+udemy_python_mega_course/project05/__pycache__/*
+udemy_python_mega_course/project05/build/*
+udemy_python_mega_course/project05/dist/*
