@@ -1,4 +1,5 @@
 from tkinter import *
+import backend
 
 window=Tk()
 
@@ -39,7 +40,7 @@ sb1.grid(row=2,column=2, rowspan=6)
 list1.configure(yscrollcommand=sb1.set)
 sb1.configure(command=list1.yview)
 
-b1=Button(window, text="View all", width=12)
+b1=Button(window, text="View all", width=12, command=backend)
 b1.grid(row=2, column=3)
 
 b2=Button(window, text="Search entry", width=12)
