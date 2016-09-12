@@ -6,3 +6,5 @@ udemy_python_mega_course/project05/books.db
 udemy_python_mega_course/project05/__pycache__/*
 udemy_python_mega_course/project05/build/*
 udemy_python_mega_course/project05/dist/*
+*.exe
+udemy_python_mega_course/opencv/Galaxy_resized.jpg
